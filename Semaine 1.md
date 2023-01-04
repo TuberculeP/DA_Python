@@ -15,6 +15,8 @@ Premiers pas avec Turtle  :
 
 n'hésitez pas à farfouiller la documentation de Turtle pour dessiner de nouvelles formes ou voir les autres modes de déplacement (goto par exemple)
 
+https://docs.python.org/fr/3/library/turtle.html
+
 Le programme suivant dessine une "triforce", trois triangles empilés.
 
 
