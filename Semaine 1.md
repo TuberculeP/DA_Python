@@ -13,6 +13,8 @@ Premiers pas avec Turtle  :
 - avancer (forward) et pivoter (left,right)
 - remplir une forme
 
+n'hésitez pas à farfouiller la documentation de Turtle pour dessiner de nouvelles formes ou voir les autres modes de déplacement (goto par exemple)
+
 Le programme suivant dessine une "triforce", trois triangles empilés.
 
 
